@@ -8,7 +8,7 @@ In this technical document, we will walk through the process of deploying a Spri
 
 As we are going to create two docker containers which will be communicating with each other.
 
-### 1. Deploying MySQL Image in a Container
+### 1. Creating docker file for MySQL docker image.
 
 ```docker
 
