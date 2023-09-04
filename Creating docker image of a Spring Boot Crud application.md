@@ -131,14 +131,13 @@ LABEL authors="PRATEEK_M22AIE214"
 
 It is a CRUD application where you can add the details of employee such as first_name, last_name and email. You can add new employees, delete the existing employees. Also, you can update the details of the existing employees.
 
- 
-
-![Untitled](Creating%20docker%20image%20of%20a%20Spring%20Boot%20Crud%20applic%204415ee809f7347aca25c45628a46e55e/Untitled.png)
+![Untitled](https://github.com/m22aie214/M22AIE214/assets/144049583/f74d7289-a33a-42d0-a608-f409cf71d151)
 
 Update Page:
 
-![Untitled](Creating%20docker%20image%20of%20a%20Spring%20Boot%20Crud%20applic%204415ee809f7347aca25c45628a46e55e/Untitled%201.png)
+![Untitled 1](https://github.com/m22aie214/M22AIE214/assets/144049583/eca1ff4a-243a-472f-8bc2-57134b7cf1cd)
+
 
 Add New Employee:
 
-![Untitled](Creating%20docker%20image%20of%20a%20Spring%20Boot%20Crud%20applic%204415ee809f7347aca25c45628a46e55e/Untitled%202.png)
+![Untitled 2](https://github.com/m22aie214/M22AIE214/assets/144049583/0cfbfc8a-2605-410d-8cbf-39eb96a1f4ea)
